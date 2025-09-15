@@ -6,7 +6,11 @@ machine learning engineer
 
 I've been coding like for 2 years.
 
-* 🧠  I'm learning NLP
+I'm learning:
+* 🧠 Natural Language Processing (NLP
+* 👁️ Computer Vision (CV)
+* 🎯 Recommendation Systems (RecSys)
+* 🤖 Reinforcment Learning (RL)
 
 ### Skills
 
